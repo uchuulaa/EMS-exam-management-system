@@ -1,5 +1,6 @@
                                                       Exam Management System
-Introduction
+                  Introduction
+		  
 The Java-based Exam Management System project aims to streamline the administration and management of exams. The technology can be used to design and deliver online exams by educational institutions, training facilities, and various businesses. The major goal of this project is to completely automate the exam-taking process, including effective scheduling of exams, the production of question papers, registration for exams, grading, and result generating.  This program can be installed on the systems of applicants using merely a database server housed on a local area network.
 	This project is divided into three modules as per the various of users of the platform. The functionality each module is as follows:
 1. Candidate Module:
